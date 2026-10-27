@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReelBin</string>
+    <string name="service_desc">ReelBin watches for Reels and Shorts swipes to count them and shows a small dustbin beside your front camera. It does not read or store any content.</string>
+</resources>
